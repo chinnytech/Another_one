@@ -16,7 +16,7 @@ spec:
         image: chinnyb/bliss-web-app
         ports:
         - containerPort: 8080
-
+        
 ---
 apiVersion: v1
 kind: Service
