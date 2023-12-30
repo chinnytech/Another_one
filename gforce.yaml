@@ -12,7 +12,7 @@ spec:
         app: gforce
     spec:
       containers:
-      - name: myGforce
+      - name: mygforce
         image: chinnyb/bliss-web-app
         ports:
         - containerPort: 8080
